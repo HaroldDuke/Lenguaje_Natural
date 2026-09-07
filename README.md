@@ -10,3 +10,6 @@ Este repositorio contiene el notebook del laboratorio y el informe de la activid
 4. Al finalizar, se generan la matriz de similitud y las tablas de clasificación y agrupamiento en archivos CSV.
 
 El laboratorio trabaja con 60 tickets sintéticos: 30 casos semilla con tema de referencia, 15 para validación y 15 casos operativos sin etiqueta. Los registros marcados como `Revisión humana` son propuestas que requieren verificación; no representan decisiones definitivas.
+
+Ejecucción Resultado
+<img width="864" height="831" alt="image" src="https://github.com/user-attachments/assets/699b033f-927b-4780-9de7-26cec28c7b8d" />
